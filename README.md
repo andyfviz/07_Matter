@@ -1,2 +1,2 @@
 # Template-Basico-Centro
-Mi primer Template para crear pags web sin procesadores ni compiladores
+Un template o boilerplate para crear páginas web sin preprocesadores ni compiladores.
